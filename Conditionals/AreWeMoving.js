@@ -2,9 +2,6 @@
 
 Determine what the following code snippet logs. First solve it in your head or on paper, and only then run it in your JavaScript console to check the result.
 
-
-
-
 */
 
 let speed = 0;
